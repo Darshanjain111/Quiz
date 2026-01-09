@@ -1,4 +1,4 @@
-Quiz Website – QuizMaster (you can rename it)
+Quiz Website – QuizMaster 
 
 A full-stack web application for creating, taking, and managing quizzes. Users can attempt quizzes and track scores, while admins can manage quizzes, questions, and results. Built with Spring Boot and Spring JPA for robust database operations.
 
